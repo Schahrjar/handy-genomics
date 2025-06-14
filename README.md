@@ -6,5 +6,9 @@ High-throughput sequencing devices are overtaking analysis capabilities, and seq
 ## RNU4-2 scanner
 The RNU4-2 is a novel disease causing gene. This non-coding gene is not covered by exome kits. However, there is a small chance of off-target reads that could have captured the gene. Causative variants of RNU4-2 are condensed in a 18-bp region, called stem loop. RNU4-2 scanner uses Samtools to search for any possible RNU4-2 stem loop variants.
 
+**[2025-06-11] update:**
+<br/>
+👉 Please use [RNUscanner](https://github.com/Schahrjar/RNUscanner), a more comprehensive tool with easy to use instructions, and scalability to include other RNU genes (RNU2-2, RNU5B-1, RNU5A-1, etc.).
+
 ## RNA-Seq plotting
 RNA-Seq is widely used for transcriptomics, from research to clinics. Performing appropriate analyses and creating high quality plots unleashes the great value of RNA-Seq data.
