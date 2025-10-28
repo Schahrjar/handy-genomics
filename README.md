@@ -12,4 +12,5 @@ The RNU4-2 is a novel disease causing gene. This non-coding gene is not covered 
 > It is developed to [RNUscanner](https://github.com/Schahrjar/RNUscanner), a more comprehensive tool with easy to use instructions, and scalability to include other RNU genes (RNU2-2, RNU5B-1, RNU5A-1, etc.).
 
 ## RNA-Seq plotting
-RNA-Seq is widely used for transcriptomics, from research to clinics. Performing appropriate analyses and creating high quality plots unleashes the great value of RNA-Seq data.
+RNA-Seq is widely used for transcriptomics, from research to clinics. Performing appropriate analyses and creating high quality plots unleashes the great value of RNA-Seq data.\
+**update 2025-10-28:** I introduced enhancements in plotting and pathway analysis.
