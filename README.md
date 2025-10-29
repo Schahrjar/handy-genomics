@@ -14,3 +14,6 @@ The RNU4-2 is a novel disease causing gene. This non-coding gene is not covered 
 ## RNA-Seq plotting
 RNA-Seq is widely used for transcriptomics, from research to clinics. Performing appropriate analyses and creating high quality plots unleashes the great value of RNA-Seq data.\
 **update 2025-10-28:** I introduced enhancements in plotting and pathway analysis.
+
+## Haplotype scanner
+Phasing variants of WGS data using SHAPEIT gives a BCF file with samples' genotypes. Then next step would be infering which samples carry a specific haplotype, defined by a set of SNPs. The HapScanner gets a set of SNPs and scans the genotypes from SHAPEIT output and quickly returns all samples' genotypes for the defined haplotype block.
