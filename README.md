@@ -1,3 +1,8 @@
+[![GitHub release](https://img.shields.io/github/v/release/Schahrjar/handy-genomics)](https://github.com/Schahrjar/handy-genomics/releases/latest)
+[![last commit](https://img.shields.io/github/last-commit/Schahrjar/handy-genomics)](https://github.com/Schahrjar/handy-genomics/commits/main)
+[![Downloads](https://img.shields.io/github/downloads/Schahrjar/handy-genomics/total?style=flat-square)](https://github.com/Schahrjar/handy-genomics/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
+
 # Handy Genomics
 Do a more robust genomics data analysis, sometimes by a surprising simple script!
 
